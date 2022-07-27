@@ -1,7 +1,7 @@
 """
 Project: UPBGEMultiplayerOnlineV7
 Version: 7.0 (
-Author: Henrique Rodrigues Pereira (https://github.com/RIick013 / https://www.youtube.com/c/RIick013 )
+Author: Henrique Rodrigues Pereira ( https://github.com/RIick013 / https://www.youtube.com/c/RIick013 )
 """
 
 import json, random, threading, time, select, socket
