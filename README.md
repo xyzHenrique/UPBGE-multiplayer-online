@@ -13,6 +13,6 @@ Thx!
 
 ## License
 
-MIT © [Henrique](https://github.com/RIick-013)
+MIT © [Henrique](https://github.com/RIick013)
 
 ")
