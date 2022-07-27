@@ -1,6 +1,5 @@
 """
 Project: UPBGEMultiplayerOnlineV7
-Require: client_minion.py
 Version: 7.0
 Author: Henrique Rodrigues Pereira ( https://github.com/RIick013 / https://www.youtube.com/c/RIick013 )
 """
@@ -69,7 +68,7 @@ class client(bge.types.KX_PythonComponent):
         global players_dict
         for player in list(players_dict.keys()):
             if player not in players:
-                print("--session: player {} disconnected!".format(player))
+                print("-session: player {} disconnected!".format(player))
                 # ...
                 players_dict[player].endObject()
                 del players_dict[player]
@@ -88,12 +87,11 @@ class client(bge.types.KX_PythonComponent):
                 
                 if not data: break
                 
-                position = []
+                position, position = [], []
                 position.append({"posX":self.object.worldPosition[0]})
                 position.append({"posY":self.object.worldPosition[1]})
                 position.append({"posZ":self.object.worldPosition[2]})
                 
-                rotation = []
                 rotation.append({"rotX":self.object.localOrientation.to_euler()[0]})
                 rotation.append({"rotY":self.object.localOrientation.to_euler()[1]})
                 rotation.append({"rotZ":self.object.localOrientation.to_euler()[2]})
