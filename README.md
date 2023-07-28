@@ -43,5 +43,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-[List any external libraries, resources, or tutorials you used in the project.]
+[Uniday Studio, Golden Games, Priston Unreal Project]
 
