@@ -1,5 +1,5 @@
 # UPBGEMultiplayerOnline
-Free online multiplayer base made with Python on UPBGE 0.2.4x (BlenderGameEngine)
+Base for creating *online multiplayer games* **using code 100% made by me**, free and with useful links to study with Python. Made and tested on UPBGE 0.2.4x (BlenderGameEngine-BGE)
 
 ## VERSION v7 ##
 
