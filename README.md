@@ -52,7 +52,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Thanks to all the users and contributors who have supported and contributed to this project! Your help is greatly appreciated. 🙏
 
-## --- ##
+##
 <p align="left">Henrique, Thx! 
   <img src="https://avatars.githubusercontent.com/u/49194975?u=6e1cacc4933a669c2729164b63e3d1c2b1e86580&v=4https://avatars.githubusercontent.com/u/49194975?u=6e1cacc4933a669c2729164b63e3d1c2b1e86580&v=4" alt="Henrique" width="15" height="15" />
 </p>
