@@ -27,9 +27,9 @@ This project provides a solid foundation for developing online multiplayer games
 
 The project is developed and maintained by Henrique Rodrigues Pereira. You can find more about the author and their work on the following platforms:
 
-- GitHub: [RIick013](https://github.com/RIick013)
-- YouTube: [RIick013's Channel](https://www.youtube.com/c/RIick013)
-- Instagram: [Henrique Rodrigues](https://www.instagram.com/__henrique.rodrigues__/)
+- GitHub: [:octocat: RIick013](https://github.com/RIick013)
+- YouTube: [:movie_camera: RIick013's Channel](https://www.youtube.com/c/RIick013)
+- Instagram: [:camera: Henrique Rodrigues](https://www.instagram.com/__henrique.rodrigues__/)
 
 **IMPORTANT: Feel free to study or create a project using this code, but please remember to give proper credit to the original author, as this is a project that has been developed over the years.**
 
@@ -40,4 +40,8 @@ The project is developed and maintained by Henrique Rodrigues Pereira. You can f
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Acknowledgments
+
+[List any external libraries, resources, or tutorials you used in the project.]
 
