@@ -6,7 +6,7 @@ UPBGEMultiplayerOnline is a base for creating online multiplayer games **using 1
 [Watch the v7 Video](https://youtu.be/2FwVr3DZOd4)
 
 <p align="left">
-  <img src="https://i.ytimg.com/vi/2FwVr3DZOd4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrliN1J_yrCFA_QV6Rs4PVL1pKdw" width="150" height="150" />
+  <img src="https://i.ytimg.com/vi/2FwVr3DZOd4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrliN1J_yrCFA_QV6Rs4PVL1pKdw" width="250" height="150" />
 
 ## Table of Contents
 - [Introduction](#introduction)
