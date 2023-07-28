@@ -50,7 +50,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Special Thanks
 
-- Thanks to all the users and contributors who have supported and contributed to this project! Your help is greatly appreciated. 🙏
+Thanks to all the users and contributors who have supported and contributed to this project! Your help is greatly appreciated. 🙏
 
 ##
 <p align="left">Henrique, Thx! 
