@@ -1,19 +1,43 @@
 # UPBGEMultiplayerOnline
-Base for creating online multiplayer games **using code 100% made by me**, free and with useful links to study with Python. Made and tested on UPBGE 0.2.4x (BlenderGameEngine-BGE)
 
-## VERSION v7 ##
-v7 Video: https://youtu.be/2FwVr3DZOd4
+UPBGEMultiplayerOnline is a base for creating online multiplayer games **using 100% custom-made code**. It's a free and open-source project with Python, designed and tested on UPBGE 0.2.4x (Blender Game Engine - BGE).
 
-- Author: Henrique Rodrigues Pereira (https://github.com/RIick013)<br>
-- Youtube: https://www.youtube.com/c/RIick013<br>
-- Instagram: https://www.instagram.com/__henrique.rodrigues__/<br>
+## Version v7
+[Watch the v7 Video](https://youtu.be/2FwVr3DZOd4)
 
-**IMPORTANT: Feel free to study or create a project over this code, but always keep the credits please, because this is a project I've been developing for years.**
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Author](#author)
+- [Usage](#usage)
+- [License](#license)
 
-Thx!
+## Introduction
+
+This project provides a solid foundation for developing online multiplayer games. If you're new to UPBGE or looking to create a multiplayer game from scratch, you can use this repository as a starting point.
+
+## Features
+
+- Online multiplayer functionality
+- Custom-made Python code for game development
+- Free to use and modify
+- Compatibility with UPBGE 0.2.4x
+
+## Author
+
+The project is developed and maintained by Henrique Rodrigues Pereira. You can find more about the author and their work on the following platforms:
+
+- GitHub: [RIick013](https://github.com/RIick013)
+- YouTube: [RIick013's Channel](https://www.youtube.com/c/RIick013)
+- Instagram: [Henrique Rodrigues](https://www.instagram.com/__henrique.rodrigues__/)
+
+**IMPORTANT: Feel free to study or create a project using this code, but please remember to give proper credit to the original author, as this is a project that has been developed over the years.**
+
+## Usage
+
+[Include instructions on how to use your project, set it up locally, and how to contribute if you're open to community contributions.]
 
 ## License
 
-MIT © [Henrique](https://github.com/RIick013)
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-")
