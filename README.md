@@ -45,7 +45,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 [Uniday Studio, Golden Games, Priston Unreal Project]
 
-<p align="center">
+<p align="left">
   <img src="https://avatars.githubusercontent.com/u/49194975?u=6e1cacc4933a669c2729164b63e3d1c2b1e86580&v=4https://avatars.githubusercontent.com/u/49194975?u=6e1cacc4933a669c2729164b63e3d1c2b1e86580&v=4" alt="Henrique, Thx!" width="25" height="25" />
 </p>
 
