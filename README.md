@@ -38,7 +38,7 @@ The project is developed and maintained by Henrique Rodrigues Pereira. You can f
 
 ## Usage
 
-[Include instructions on how to use your project, set it up locally, and how to contribute if you're open to community contributions.]
+-
 
 ## License
 
