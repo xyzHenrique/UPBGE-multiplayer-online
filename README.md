@@ -30,7 +30,7 @@ This project provides a solid foundation for developing online multiplayer games
 
 The project is developed and maintained by Henrique Rodrigues Pereira. You can find more about the author and their work on the following platforms:
 
-- GitHub: [:octocat: RIick013](https://github.com/RIick013)
+- GitHub: [:octocat: xyzHenrique](https://github.com/xyzHenrique)
 - YouTube: [:movie_camera: RIick013's Channel](https://www.youtube.com/c/RIick013)
 - Instagram: [:camera: Henrique Rodrigues](https://www.instagram.com/__henrique.rodrigues__/)
 
